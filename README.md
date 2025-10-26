@@ -1,2 +1,2 @@
-# SQL_Developer_Project_1
+# SQL_Developer_Projects
 First Project @ SQL Developer Intern @ Elevate Labs
